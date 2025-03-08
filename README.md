@@ -1,0 +1,1 @@
+This Python tool encrypts and decrypts images using pixel manipulation. It swaps pixel channels (e.g., red and blue) and applies an XOR operation with a user-provided key for encryption. The decryption process reverses these steps. Built with Pillow, it’s a simple yet effective way to explore basic image encryption. Perfect for learning and experimentation!
